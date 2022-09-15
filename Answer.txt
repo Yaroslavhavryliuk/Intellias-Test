@@ -1,0 +1,17 @@
+Name;Month;Total hours
+John Doe;October 2021;24
+John Doe;September 2021;7
+
+Jane Doe;October 2021;4
+
+Jane Doe;January 2022;6
+
+Yaroslav Havryliuk;March 2022;8
+
+Yaroslav Havryliuk;March 2021;21
+
+Viktor Bender;June 2022;4
+
+Ilon Mask;August 2021;23
+
+Ilon Mask;August 2022;8
